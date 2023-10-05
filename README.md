@@ -70,4 +70,3 @@ Before you begin, ensure you have met the following requirements:
 ## License
 
 This project is a personal project and it's not licensed
-```
